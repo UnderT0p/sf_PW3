@@ -1,0 +1,9 @@
+[core]
+        autocrlf = input
+        safecrlf = warn
+        quotepath = off
+[user]
+        name = Undert0p
+        email = victordutovski@gmail.com
+[alias]
+        history = log
