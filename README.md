@@ -10,7 +10,7 @@ git clone https://github.com/UnderT0p/sf_PW3
 
 Создать ветку и перейти в неё
 
-git checkout -b SubTask.01.01.01
+git checkout -b ["Номер задачи"]
 
 Внести все изменения
 
