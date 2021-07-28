@@ -48,3 +48,6 @@ Pull Request — это запрос на вливание изменений и
 После каждого действия рекомендуется синхронизировать удаленный репозиторий
 
 - git push
+
+Как сделать pull request
+https://github.com/urfu-2015/guides/blob/master/how-to-pull-request.md
